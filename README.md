@@ -20,3 +20,5 @@ It includes these protocols:
 - SlickPay SDK (Developers can build custom gateways and DeFi Apps on SetPay)
 
 ## Clearly Experimental - Don't know if it will work (WIP - 1st of its kind)
+
+## From [Slixon Tech.](https://github.com/Slixon-Technologies) in collaboration with [Setheum Labs](https://github.com/Setheum-Labs) & [Open Web3 Foundation](https://github.com/openweb3-foundation)
